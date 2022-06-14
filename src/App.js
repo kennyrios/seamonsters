@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Create react App</h1>
+      <h1>Sea monsters</h1>
     </div>
   );
 }
