@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.8" project-jdk-type="Python SDK" />
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/Exercism/scala/bob" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Exercism/scala/grade-school" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Exercism/scala/hamming" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Exercism/scala/hello-world" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Exercism/scala/isogram" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Exercism/scala/leap" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Exercism/scala/pascals-triangle" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Exercism/scala/robot-simulator" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Exercism/scala/run-length-encoding" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Exercism/scala/space-age" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Exercism/scala/two-fer" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Exercism/scala/word-count" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/hello-slick-3.1" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ScalaSbtSettings">
+    <option name="customVMPath" />
+  </component>
+</project>
